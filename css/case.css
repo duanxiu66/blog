@@ -80,7 +80,7 @@
 /* 三维旋转 */
 .toushi {
 	position: relative;
-	background: url('../image/chicken.jpg');
+	background: url('https://pic2.zhimg.com/50/v2-a0f52802b8607fec052d8232d075171c_hd.jpg');
 	background-size: cover;
 	border-radius: 50%;
 	width: 150px;
@@ -150,7 +150,7 @@
 }
 .img-item {
 	transition: 0.5s;
-	background-image: url('../image/chicken.jpg');
+	background-image: url('https://pic2.zhimg.com/50/v2-a0f52802b8607fec052d8232d075171c_hd.jpg');
 	background-size: 120px 120px;
 	box-shadow: 0 0 0 1px #999;
 	position: relative;
